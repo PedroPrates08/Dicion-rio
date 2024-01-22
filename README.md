@@ -1,2 +1,2 @@
-# Dicion-rio
+# Dicionário
 Projeto: Criação de um dicionário.
